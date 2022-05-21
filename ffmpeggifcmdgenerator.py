@@ -26,4 +26,4 @@ output = output1 + output2 + output3
 print("Your output is:")
 print(output)
 pyperclip.copy(output)
-input("output copied, press enter to exit")
+input("output copied to clipboard, press enter to exit")
